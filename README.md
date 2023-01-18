@@ -20,7 +20,3 @@
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshmySanthosh&" alt="lakshmy" /></p>
  </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshmySanthosh&show_icons=true&locale=en&layout=compact" alt="lakshmy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshmySanthosh&" alt="lakshmy" /></p>
