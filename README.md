@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ML, DL, C++, DSA**
 
-- 🕸 Neural networks excites me. Is'nt it amazing how **object detection** is done.
+- 🕸 Neural networks excites me. Isn't it amazing how **object detection** is done.
 
 - 📫 How to reach me **lakshmys00@gmail.com**
 
