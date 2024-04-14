@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshmy Santhosh</h1>
 <h3 align="center">Upcoming Data Scientist from India</h3>
-<img align="right" alt="Scientist" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="Scientist" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" loop>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LakshmySanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmy" /> </p>
 
