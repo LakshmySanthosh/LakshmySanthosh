@@ -4,13 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LakshmySanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmy" /> </p>
 
-- 🌱 I’m currently learning **ML, C++, DSA**
+- 🌱 I’m currently learning **ML, DL, C++, DSA**
 
-- 💬 Ask me about **Python ML AI**
+- 🕸 Neural networks excites me. Is'nt it amazing how **object detection** is done.
 
 - 📫 How to reach me **lakshmys00@gmail.com**
+
+- **Turning caffeine into code, one bug at a time ☕🐞**
 </br>
-- ⚡ Fun fact **I like to work but rest is more necessary**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/LakshmySanthosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lakshmy" height="30" width="40" /></a>
