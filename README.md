@@ -18,6 +18,20 @@
 <a href="https://instagram.com/___lakshmy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://leetcode.com/LakshmySanthosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </br>
+
+<h3 align="left">Languages and tools:</h3>
+<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp" height="30" width="40" />
+<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" height="30" width="40" />
+<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Others/git.svg" alt="git" height="30" width="40" />
+<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql" height="30" width="40" />
+<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/AIML/tensorflow.svg" alt="tensorflow" height="30" width="40" />
+<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/AIML/pytorch.svg" alt="pytorch" height="30" width="40" />
+
+<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="c" height="30" width="40" />
+<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" height="30" width="40" />
+
+
+
 </br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshmySanthosh&show_icons=true&locale=en&layout=compact" alt="a" /></p>
 </br>
