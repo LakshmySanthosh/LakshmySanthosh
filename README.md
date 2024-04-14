@@ -23,7 +23,7 @@
 <div>
   <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp" height="30" width="40" /> 
   <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" height="30" width="40" /> 
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Others/git.svg" alt="git" height="30" width="40" /> 
+  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" height="30" width="40" /> 
   <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql" height="30" width="40" /> 
   <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/AIML/tensorflow.svg" alt="tensorflow" height="30" width="40" /> 
   <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/AIML/pytorch.svg" alt="pytorch" height="30" width="40" /> 
